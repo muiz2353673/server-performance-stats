@@ -1,7 +1,6 @@
 # Server Performance Stats
 
 This project contains a shell script `server-stats.sh` that analyzes basic server performance metrics on any Linux machine.
-This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
 ## 🔧 Features
 
 - Total CPU usage
