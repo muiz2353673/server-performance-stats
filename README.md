@@ -15,7 +15,7 @@ This project contains a shell script `server-stats.sh` that analyzes basic serve
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/server-performance-stats.git
+git clone https://github.com/muiz2353673/server-performance-stats.git
 cd server-performance-stats
 chmod +x server-stats.sh
 ./server-stats.sh
